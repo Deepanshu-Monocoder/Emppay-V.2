@@ -1,16 +1,11 @@
-# Emppay-V.2
-Custom payroll software for company brandvitamin 
 
+  # emp pay pakka (Copy)
 
-## Current Features
+  This is a code bundle for emp pay pakka (Copy). The original project is available at https://www.figma.com/design/z1dsOkLbM9rweDZcPhLNVx/emp-pay-pakka--Copy-.
 
-* Employee Management
-* Attendance Tracking
-* Leave Management
-* Payroll Calculation
-* Holiday Management
-* PDF & Excel Export
-* Google Authentication
-* Cloud Data Sync
-* Dark Mode Support
-* Mobile & Desktop Compatibility
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
